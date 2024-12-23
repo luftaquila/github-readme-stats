@@ -609,5 +609,15 @@
     "templ": "#66D0DD",
     "vCard": "#ee2647",
     "wisp": "#7582D1",
-    "xBase": "#403a40"
+    "xBase": "#403a40",
+    "Neovim": "#00b952",
+    "Vim": "#068304",
+    "Atom": "#49b77e",
+    "VS Code": "#027acd",
+    "Sublime Text": "#ff9800",
+    "Visual Studio": "#9460cd",
+    "Windows": "#0379d4",
+    "Mac": "#4d66cb",
+    "Linux": "#f0b912",
+    "WSL": "#7a9973"
 }
